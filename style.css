@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    margin: 0 auto;
+    width: 1440px;
+}
+.full-header {
+    margin: 0 auto;
+    width: 1440px;
+    padding-top: 30px;
+}
+.icon {
+    height: 60px;
+    width: 70px;
+}
+li {
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 25px;
+}
+a { 
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+ul {
+    display: inline-block;
+}
+.tittle {
+    display: inline-block;
+    font-size: 40px;
+    font-family: 'East Sea Dokdo', cursive;
+}
+.navigation {
+    padding-left: 550px;
+    vertical-align: middle;
+}
+.bag-icon {
+    width: 30px;
+}
+.search-icon {
+    width: 32px;
+}
+.design-section {
+   position: relative; 
+   margin: 0 auto;
+}
+.big-img {
+    position: absolute;
+    width: 100%;
+}
+.img-tittle {
+    position: absolute;
+    left: 40%;
+    top: 200px;
+    font-size: 60px;
+    font-family: 'East Sea Dokdo', cursive;
+    color: #805050;
+}
+.info {
+    position: absolute;
+    top: 300px;
+    left: 40%;
+    font-size: 30px;
+    font-family: 'East Sea Dokdo', cursive;
+    color: #805050;
+}
+.left-arrow-icon {
+    position: absolute;
+    width: 50px;
+    top: 270px;
+    left: 20px;
+}
+.right-arrow-icon {
+    position: absolute;
+    width: 50px;
+    top: 270px;
+    right: 20px;
+}
+.readmore {
+    position: absolute;
+    left: 50%;
+    top: 400px;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+.design-history {
+    padding-left: 100px;
+    margin: 0 auto;
+    padding-top: 700px;
+    width: 800px;
+    display: inline-block;
+}
+h1 {
+    color: #805050;
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 80px;
+    text-align: center;
+    display: inline-block;
+}
+.design-history p {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+    width: 500px;
+    margin: 0 auto;
+}
+.example-div {
+    display: inline-block;
+}
+.example-div img {
+    width: 400px;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 50px;
+}
+.img-section {
+    padding-top: 80px;
+}
+.kitchen {
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+}
+.kitchen img {
+    border-radius: 50px;
+}
+h2 {
+    font-family: 'East Sea Dokdo', cursive;
+    color: #805050;
+    font-size: 50px;
+    text-align: center;
+}
+.kitchen p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+    padding-left: 90px;
+}
+.bedroom {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.bedroom img {
+    border-radius: 50px;
+    height: 260px;
+}
+.bedroom p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+}
+.livingroom {
+    display: inline-block;
+    margin-left: 50px;
+    text-align: center;
+}
+.livingroom img {
+    border-radius: 50px;
+}
+.livingroom p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+}
+.bathroom {
+    display: inline-block;
+    margin-left: 50px;
+    text-align: center;
+}
+.bathroom img {
+    border-radius: 50px;
+}
+.bathroom {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+}
+.diagram-section {
+    padding-top: 80px;
+    margin:  0 auto;
+}
+.diagram-section h1 {
+    font-family: 'East Sea Dokdo', cursive;
+    color: #805050;
+    font-size: 70px;
+    padding-left: 140px;
+}
+.diagram-section p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+.sofa {
+    margin:  0 auto;
+    padding-top: 100px;
+    border: 1px #707070;
+    border-radius: 20px;
+    width: 80%;
+    background-color: rgb(218, 216, 216);
+    left: 30px;
+}
+.percentage {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 165px;
+}
